@@ -47,17 +47,26 @@ ul {
     text-decoration-line: none;
 }
 
-a:hover {
-    background-color: #000000;
+.logo a:hover {
+    color: #000000;
 
 }
+.current_page_item a:hover{
+    color: #000000;
+}
+h2 a:hover {
+    color: #000000;
 
+}
 a {
     text-decoration-line: none;
 }
 
 a:visited {
-    color: inherit;
+    color: #e3e0cf;
+}
+h2{
+    padding-bottom: 15px;
 }
 
 .copyright {
