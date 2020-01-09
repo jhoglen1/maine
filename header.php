@@ -26,10 +26,7 @@
 
     <nav class="nav-main-wrap" role="navigation">
         <?php h5bs_primary_nav(); ?>
-    </nav>
+    </nav>  
 
-    <nav class="nav-mobile-wrap" role="navigation">
-        <i id="nav-mobile-toggle" class="nav-mobile-toggle fa fa-bars"></i>
-        <?php h5bs_mobile_nav(); ?>
-    </nav>
+   
 </header>
